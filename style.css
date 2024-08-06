@@ -1,0 +1,65 @@
+*{
+margin: 0;    
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+font-family: "Poppins", sans-serif;    
+background-color: #06a86d;
+}
+
+.sayitahmini{
+text-align: center;    
+align-items: center;
+background-color: #212121;
+width: 500px;
+height: 235px;
+max-width: 450px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+border-radius: 3px;
+}
+
+h1{
+margin-top: 250px;    
+text-align: center;
+color: #06a86d;
+}
+
+#goster {
+outline: none;
+border: none;
+text-align: center;
+font-size: 24px;
+border-radius: 2px;
+width: 250px;
+height: 45px;
+background-color: #ffffff;
+}
+
+.butonlar button{
+margin-top: 23px;
+cursor: pointer;
+outline: none;
+border: none;
+width: 130px;
+height: 30px;
+border-radius: 2px;
+font-size: 20px;
+background-color: #ffffff;
+}
+
+.butonlar button:hover{
+background-color: #06a86d;    
+color: #e8e8e8;
+transition: 0.3s;
+}
+
+#sonuc{
+font-size: 19px;    
+position: relative;
+top: 15px;
+color: #06a86d;
+}
